@@ -4,7 +4,7 @@ Unfollow everyone on X (Formerly Twitter) and or unfollow who doesn't follow you
 
 ## Unfollow Following Who Doesn't Follow Back on X
 
-1. Go to `https://twitter.com/YOUR_USER_NAME/following`
+1. Go to `https://x.com/YOUR_USER_NAME/following`
 2. Open the Developer Console. (<kbd>COMMAND</kbd>+<kbd>ALT</kbd>+<kbd>I</kbd> on Mac)
 3. Paste this into the Developer Console and run it
 ```js
